@@ -39,7 +39,7 @@ body{
  padding-left:15px;
  padding-top:25px;
  float:left;
- text-shadow:#339933 3px 3px 3px;
+ text-shadow:blue 3px 3px 3px;
 }
 #teck{
   font-size:24px;
@@ -144,7 +144,7 @@ font-size:34px;
 float:left;
 padding-left:15px;
 padding-top:15px;
-text-shadow:#339933 3px 3px 3px;
+text-shadow:blue 3px 3px 3px;
 }
 .footer-right{
  font-size:large;
@@ -152,5 +152,5 @@ font-weight:bold;
 float:right;
 padding-top:15px;
 padding-right:15px;
-text-shadow:#339933 3px 3px 3px;
+text-shadow:blue 3px 3px 3px;
 }
