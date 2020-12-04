@@ -14,7 +14,7 @@ $(document).ready(function(){
  
   
   $(".header-list").click(function(){
-       $(".header-list").html("<b>ikite2021@gmail.com</b>");
+       $(".header-list").html("<b>walkerjpjp@gmail.com</b>");
 
 });
 
