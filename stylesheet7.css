@@ -22,6 +22,9 @@ body{
     100%{opacity:1}
 }
 
+a:hover{
+  color:blue;
+}
  a{
  color:black;
    }
