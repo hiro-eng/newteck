@@ -13,11 +13,6 @@ window.onload = function(){
 $(document).ready(function(){
  
   
-  $(".header-list").click(function(){
-       $(".header-list").html("<b>walkerjpjp@gmail.com</b>");
-
-});
-
   $("#teck").hover(
     function(){
    $("#teck").text(" >>>>>Welcome");
